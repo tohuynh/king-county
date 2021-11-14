@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/king-county/static/js/main.618cc274.chunk.js",
+    "main.js.map": "/king-county/static/js/main.618cc274.chunk.js.map",
+    "runtime-main.js": "/king-county/static/js/runtime-main.67687380.js",
+    "runtime-main.js.map": "/king-county/static/js/runtime-main.67687380.js.map",
+    "static/css/2.26284039.chunk.css": "/king-county/static/css/2.26284039.chunk.css",
+    "static/js/2.4c09d82b.chunk.js": "/king-county/static/js/2.4c09d82b.chunk.js",
+    "static/js/2.4c09d82b.chunk.js.map": "/king-county/static/js/2.4c09d82b.chunk.js.map",
+    "index.html": "/king-county/index.html",
+    "static/css/2.26284039.chunk.css.map": "/king-county/static/css/2.26284039.chunk.css.map",
+    "static/js/2.4c09d82b.chunk.js.LICENSE.txt": "/king-county/static/js/2.4c09d82b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67687380.js",
+    "static/css/2.26284039.chunk.css",
+    "static/js/2.4c09d82b.chunk.js",
+    "static/js/main.618cc274.chunk.js"
+  ]
+}
