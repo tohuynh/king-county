@@ -1,0 +1,12 @@
+default_context:
+    municipality: "King County"
+    governing_body_type: "county council"
+    municipality_slug: "king-county"
+    python_municipality_slug: "king_county"
+    infrastructure_slug: "cdp-king-county-b656c71b"
+    maintainer_or_org_full_name: "JacksonMaxfield"
+    hosting_github_username_or_org: "CouncilDataProject"
+    hosting_github_repo_name: "king-county"
+    hosting_github_url: "https://github.com/CouncilDataProject/king-county"
+    hosting_web_app_address: "https://councildataproject.org/king-county"
+    firestore_region: "us-central"
