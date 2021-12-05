@@ -166,7 +166,7 @@ There are additional tasks required after generating this repository.
             ```
         -   Click "Publish"
 
-**If all steps complete successful your web application will be viewable at: https://councildataproject.org/king-county**
+**If all steps complete successful your web application will be viewable at: https://councildataproject.github.io/king-county**
 
 ## Data Gathering Setup
 

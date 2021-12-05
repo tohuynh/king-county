@@ -1,7 +1,7 @@
 {
     "name": "cdp-king-county",
     "version": "1.0.0",
-    "homepage": "https://councildataproject.org/king-county",
+    "homepage": "https://councildataproject.github.io/king-county",
     "license": "MIT",
     "scripts": {
         "start": "react-scripts start",

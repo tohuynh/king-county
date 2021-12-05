@@ -11,7 +11,7 @@ cdp_stack = CDPStack(
     municipality_name="King County",
     firestore_location="us-central",
     hosting_github_url="https://github.com/CouncilDataProject/king-county",
-    hosting_web_app_address="https://councildataproject.org/king-county",
+    hosting_web_app_address="https://councildataproject.github.io/king-county",
     governing_body="county council",
 )
 

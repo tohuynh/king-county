@@ -3,7 +3,7 @@
 [![Infrastructure Deployment Status](https://github.com/CouncilDataProject/king-county/workflows/Infrastructure/badge.svg)](https://github.com/CouncilDataProject/king-county/actions?query=workflow%3A%22Infrastructure%22)
 [![Event Processing Pipeline](https://github.com/CouncilDataProject/king-county/workflows/Event%20Gather/badge.svg)](https://github.com/CouncilDataProject/king-county/actions?query=workflow%3A%22Event+Gather%22)
 [![Event Index Pipeline](https://github.com/CouncilDataProject/king-county/workflows/Event%20Index/badge.svg)](https://github.com/CouncilDataProject/king-county/actions?query=workflow%3A%22Event+Index%22)
-[![Web Deployment Status](https://github.com/CouncilDataProject/king-county/workflows/Web%20App/badge.svg)](https://councildataproject.org/king-county)
+[![Web Deployment Status](https://github.com/CouncilDataProject/king-county/workflows/Web%20App/badge.svg)](https://councildataproject.github.io/king-county)
 [![Repo Build Status](https://github.com/CouncilDataProject/king-county/workflows/Build%20Main/badge.svg)](https://github.com/CouncilDataProject/king-county/actions?query=workflow%3A%22Build+Main%22)
 
 ---
