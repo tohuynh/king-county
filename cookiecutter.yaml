@@ -8,5 +8,5 @@ default_context:
     hosting_github_username_or_org: "CouncilDataProject"
     hosting_github_repo_name: "king-county"
     hosting_github_url: "https://github.com/CouncilDataProject/king-county"
-    hosting_web_app_address: "https://councildataproject.org/king-county"
+    hosting_web_app_address: "https://councildataproject.github.io/king-county"
     firestore_region: "us-central"
