@@ -5,17 +5,17 @@
     "runtime-main.js": "/king-county/static/js/runtime-main.245396bf.js",
     "runtime-main.js.map": "/king-county/static/js/runtime-main.245396bf.js.map",
     "static/css/2.ce2d514d.chunk.css": "/king-county/static/css/2.ce2d514d.chunk.css",
-    "static/js/2.80d6023d.chunk.js": "/king-county/static/js/2.80d6023d.chunk.js",
-    "static/js/2.80d6023d.chunk.js.map": "/king-county/static/js/2.80d6023d.chunk.js.map",
+    "static/js/2.b8fa898f.chunk.js": "/king-county/static/js/2.b8fa898f.chunk.js",
+    "static/js/2.b8fa898f.chunk.js.map": "/king-county/static/js/2.b8fa898f.chunk.js.map",
     "index.html": "/king-county/index.html",
     "static/css/2.ce2d514d.chunk.css.map": "/king-county/static/css/2.ce2d514d.chunk.css.map",
-    "static/js/2.80d6023d.chunk.js.LICENSE.txt": "/king-county/static/js/2.80d6023d.chunk.js.LICENSE.txt",
+    "static/js/2.b8fa898f.chunk.js.LICENSE.txt": "/king-county/static/js/2.b8fa898f.chunk.js.LICENSE.txt",
     "static/media/index.css": "/king-county/static/media/fa78dfc18866610a6d06.fa78dfc1.png"
   },
   "entrypoints": [
     "static/js/runtime-main.245396bf.js",
     "static/css/2.ce2d514d.chunk.css",
-    "static/js/2.80d6023d.chunk.js",
+    "static/js/2.b8fa898f.chunk.js",
     "static/js/main.ad999491.chunk.js"
   ]
 }
